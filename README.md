@@ -19,4 +19,4 @@ An RPi3 host is required to run OpenWrt on an NRC7292 module. The DIP switch on 
 
 ## Start Guide for Image Building
 
-Refer to chapter 2 of [UG-7292-012-OpenWRT.pdf](https://github.com/newracom/nrc7292_openwrt/package/UG-7292-012-OpenWRT.pdf)
+Refer to chapter 2 of [UG-7292-012-OpenWRT.pdf](https://github.com/newracom/nrc7292_openwrt/blob/master/package/UG-7292-012-OpenWRT.pdf)
