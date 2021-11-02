@@ -1,6 +1,7 @@
 # NRC7292 OpenWRT Package
 
 ## Notice
+- (11/02/2021) update FW and support OpenWRT version 21.02.1
 - (10/04/2021) initial version upload
 
 ## Introduction
